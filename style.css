@@ -1,0 +1,34 @@
+body {
+    background-image: url(1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: right;
+    color: white;
+    margin-left: 55%;
+    margin-top: 10%;
+}
+
+#num {
+    font-size: 40px;
+    padding: 20px;
+    text-shadow: 0 0 10px #B9CE3F, 2px 2px 2px rgba(94,115,206,0);
+
+}
+#days {
+    margin: 10px;
+}
+
+td {
+    margin: 10px;
+    padding: 10px;
+}
+.name {
+    font-size: 15px;
+    padding-left: 20px;
+}
+.count {
+    font-size: 40px;
+    font-family: 'Pacifico', cursive;
+    letter-spacing: 2px;
+    text-shadow: 0 0 10px #CE273B, 2px 2px 2px rgba(94,115,206,0);
+}
